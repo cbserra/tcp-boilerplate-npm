@@ -1,5 +1,16 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"author": "cbserra",
+	"name": "tcp-boilerplate-npm",
+	"description": "TCP Boilerplate NPM",
+	"keywords": [
+		"tcp",
+		"boilerplate",
+		"npm",
+		"freeCodeCamp",
+		"topcoder"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +20,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/cbserra/tcp-boilerplate-npm.git"
 	}
 }
