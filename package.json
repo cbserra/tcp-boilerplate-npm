@@ -1,26 +1,26 @@
 {
-	"author": "cbserra",
-	"name": "tcp-boilerplate-npm",
-	"description": "TCP Boilerplate NPM with Replit",
-	"keywords": [
-		"tcp",
-		"boilerplate",
-		"npm",
-		"freecodecamp",
-		"topcoder",
-		"replit"
-	],
-	"license": "MIT",
-	"version": "1.0.0",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/cbserra/tcp-boilerplate-npm.git"
-	}
+  "author": "Chris Serra",
+  "name": "tcp-boilerplate-npm",
+  "description": "TCP Boilerplate NPM with Replit",
+  "keywords": [
+    "tcp",
+    "boilerplate",
+    "npm",
+    "freecodecamp",
+    "topcoder",
+    "replit"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbserra/tcp-boilerplate-npm.git"
+  }
 }
