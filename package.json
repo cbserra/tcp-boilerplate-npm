@@ -1,13 +1,14 @@
 {
 	"author": "cbserra",
 	"name": "tcp-boilerplate-npm",
-	"description": "TCP Boilerplate NPM",
+	"description": "TCP Boilerplate NPM with Replit",
 	"keywords": [
 		"tcp",
 		"boilerplate",
 		"npm",
 		"freeCodeCamp",
-		"topcoder"
+		"topcoder",
+		"replit"
 	],
 	"license": "MIT",
 	"version": "1.0.0",
